@@ -13,5 +13,5 @@
 
 #Route::get('/', function()
 #{
-	echo View::make('hello');
+#	echo View::make('hello');
 #});
